@@ -18,3 +18,5 @@ function overwriteBestCustomer() {
  function chaneLeastFavouriteCustomer() {
    leastFavouriteCustomer = 'not potato';
  }
+ 
+ var favouriteCustomer = 'craig';
