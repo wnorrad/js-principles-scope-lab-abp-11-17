@@ -19,8 +19,7 @@ function overwriteBestCustomer() {
    leastFavoriteCustomer = 'not potato';
  }
  
+ function attemptTwoFavoriteCustomers()
  var favoriteCustomer = 'craig';
- 
- function attemptTwoFavoriteCustomers(){
  var favoriteCustomer = 'not craig';
  }
