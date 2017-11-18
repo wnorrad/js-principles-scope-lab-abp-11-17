@@ -21,6 +21,6 @@ function overwriteBestCustomer() {
  
  var favoriteCustomer = 'craig';
  
- function attemptTwoFavouriteCustomers(){
+ function attemptTwoFavoriteCustomers(){
  var favoriteCustomer = 'not craig';
  }
