@@ -20,6 +20,6 @@ function overwriteBestCustomer() {
  }
  
  function attemptTwoFavoriteCustomers()
- var favoriteCustomer = 'craig';
- var favoriteCustomer = 'not craig';
+ favoriteCustomer = 'craig';
+ favoriteCustomer = 'not craig';
  }
