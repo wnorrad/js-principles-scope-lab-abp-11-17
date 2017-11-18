@@ -15,6 +15,6 @@ function overwriteBestCustomer() {
  
  const leastFavouriteCustomer = 'potato';
  
- changeLeastFavouriteCustomer(){
-   leastFavouriteCustomer = 'cheese';
+ function chaneLeastFavouriteCustomer() {
+   leastFavouriteCustomer = 'not potato';
  }
