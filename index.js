@@ -20,4 +20,7 @@ function overwriteBestCustomer() {
  }
  
  var favouriteCustomer = 'craig';
+ 
+ function attemptTwoFavouriteCustomers(){
  var favouriteCustomer = 2;
+ }
